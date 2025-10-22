@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Windows Yazıları
+title: Windows Posts
 ---
 
-# 🪟 Windows Yazıları
+# 🪟 Windows Posts
 
-Burada tüm **Windows** hatalarına ve çözümlerine ait yazılar listelenir:
+Here you can find all posts related to **Windows errors and solutions**:
 
 {% for post in site.categories.windows %}
 - [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%d.%m.%Y" }}
