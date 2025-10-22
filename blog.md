@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Blog
+title: All Posts
 ---
 
-# 🧾 Tüm Yazılar
+# 🧾 All Posts
 
-Aşağıda bilgisayar ve cep telefonu hatalarıyla ilgili tüm çözüm rehberleri listelenir.
+Here is the complete list of all published posts:
 
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%d.%m.%Y" }}
