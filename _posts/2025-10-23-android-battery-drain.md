@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Android Pil Tükenme Sorunu Çözümü"
+title: "Android Battery Drain Problem Solution"
 categories: [phone]
-tags: [android, battery, pil]
+tags: [android, battery, drain]
 ---
 
-Bazı Android cihazlarda pil hızla tükeniyorsa bu adımları izleyin:
-1. Ekran parlaklığını “Otomatik”e alın.
-2. Arka planda çalışan uygulamaları kapatın.
-3. Pil tasarrufu modunu etkinleştirin.
+If your Android device battery drains quickly, follow these steps:
+
+1. Set screen brightness to *Automatic*.  
+2. Close unnecessary background apps.  
+3. Enable *Battery Saver* mode.
