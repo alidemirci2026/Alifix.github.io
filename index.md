@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-[🏠 Ana Sayfa](/)
-[🪟 Windows Yazıları](/windows)
-[📱 Telefon Hataları](/phone)
-[📂 Tüm Yazılar](/blog)
-
+[🏠 Ana Sayfa](/)  [🪟 Windows Yazıları](/windows)  [📱 Telefon Hataları](/phone)  [🧾 Tüm Yazılar](/blog)
 
 # 🛠️ Alifix'e Hoş Geldin
 
