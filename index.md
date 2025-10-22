@@ -1,5 +1,12 @@
 ---
 layout: default
+---
+[🏠 Ana Sayfa](/)
+[🪟 Windows Yazıları](/windows)
+[📱 Phone Yazıları](/phone)
+[📂 Tüm Yazılar](/blog)
+---
+
 title: Ana Sayfa
 ---
 
