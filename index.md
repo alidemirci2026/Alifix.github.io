@@ -7,9 +7,6 @@ layout: default
 [📂 Tüm Yazılar](/blog)
 ---
 
-title: Ana Sayfa
----
-
 # 🛠️ Alifix'e Hoş Geldin
 
 Bilgisayar ve cep telefonu hatalarını **adım adım çözüm rehberleriyle** paylaşıyorum.  
