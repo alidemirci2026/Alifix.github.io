@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Android Battery Drain Problem Solution"
-categories: [phone]
-tags: [android, battery, drain]
+title: "Windows Update Error 0x80072EFE Solution"
+categories: [windows]
+tags: [update, error, 0x80072EFE]
 ---
 
 If your Android device battery drains quickly, follow these steps:
