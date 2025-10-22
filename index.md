@@ -1,17 +1,20 @@
 ---
 layout: default
+title: Home
 ---
-[🏠 Ana Sayfa](/)  [🪟 Windows Yazıları](/windows)  [📱 Telefon Hataları](/phone)  [🧾 Tüm Yazılar](/blog)
 
-# 🛠️ Alifix'e Hoş Geldin
+[🏠 Home](/) [🪟 Windows Posts](/windows) [📱 Phone Posts](/phone) [📂 Downloadable Fix Files](/files) [🧾 All Posts](/blog)
 
-Bilgisayar ve cep telefonu hatalarını **adım adım çözüm rehberleriyle** paylaşıyorum.  
-Her yazı ayrı bir linkte yayınlanacak.
+---
 
-## 🔗 Kategoriler
-- [🪟 Windows Yazıları](/windows)
-- [📱 Telefon Hataları](/phone)
-- [🧾 Tüm Yazılar](/blog)
-- [🧾 İndirilebilir Fix Dosyaları](/files/)
+# 🛠️ Welcome to Alifix
 
-> Yeni konular eklendikçe bu liste güncellenecek.
+I share step-by-step **guides to fix computer and mobile phone errors**.  
+Each article is published on a separate link.
+
+## 🔗 Categories
+- [Windows Errors](/windows)
+- [Phone Errors](/phone)
+- [Downloadable Fix Files](/files)
+
+> This list will be updated as new topics are added.
