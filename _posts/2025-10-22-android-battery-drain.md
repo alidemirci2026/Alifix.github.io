@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Windows Update Error 0x80072EFE Solution"
-categories: [windows]
+categories: [phone]
 tags: [update, error, 0x80072EFE]
 ---
 
