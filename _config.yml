@@ -1,7 +1,7 @@
 title: AliFix
-description: Bilgisayar ve cep telefonu hataları için ücretsiz çözümler
+description: Free solutions for computer and mobile phone errors
 theme: jekyll-theme-cayman
-locale: tr-TR
+locale: US-EN
 markdown: kramdown
 plugins:
   - jekyll-feed
