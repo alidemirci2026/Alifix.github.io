@@ -1,11 +1,12 @@
 ---
 layout: default
-title: İndirilebilir Fix Dosyaları
+title: Downloadable Fix Files
 ---
 
-# 💾 İndirilebilir Fix Dosyaları
+# 💾 Downloadable Fix Files
 
-Aşağıda yüklediğim araçların listesi yer alır. Dosyalar **ZIP** içinde paylaşılır.
+Below is the list of uploaded **tools and repair utilities**.  
+All files are shared in **ZIP** format.
 
 {% assign files = site.static_files | where_exp: "f", "f.path contains '/files/'" %}
 {% if files.size > 0 %}
@@ -13,5 +14,5 @@ Aşağıda yüklediğim araçların listesi yer alır. Dosyalar **ZIP** içinde 
 - [{{ f.name }}]({{ f.path }})
 {% endfor %}
 {% else %}
-Henüz dosya yok. İlk dosyanı **Add file → Upload files** ile `files/` içine yükle.
+No files yet. You can upload your first file via **Add file → Upload files → files/**.
 {% endif %}
