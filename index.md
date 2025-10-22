@@ -5,7 +5,7 @@ layout: default
 [🪟 Windows Yazıları](/windows)
 [📱 Telefon Hataları](/phone)
 [📂 Tüm Yazılar](/blog)
----
+
 
 # 🛠️ Alifix'e Hoş Geldin
 
