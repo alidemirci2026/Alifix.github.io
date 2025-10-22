@@ -3,7 +3,7 @@ layout: default
 ---
 [🏠 Ana Sayfa](/)
 [🪟 Windows Yazıları](/windows)
-[📱 Phone Yazıları](/phone)
+[📱 Telefon Hataları](/phone)
 [📂 Tüm Yazılar](/blog)
 ---
 
@@ -14,8 +14,7 @@ Her yazı ayrı bir linkte yayınlanacak.
 
 ## 🔗 Kategoriler
 - [Windows Hataları](/blog)
-- [Android Hataları](/blog)
-- [iOS Hataları](/blog)
+- [Telefon Hataları](/blog)
 - [İndirilebilir Fix Dosyaları](/files/)
 
 > Yeni konular eklendikçe bu liste güncellenecek.
