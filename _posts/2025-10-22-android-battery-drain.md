@@ -1,3 +1,4 @@
+![Black Swan Image](/assets/img/IMG_6053.JPG)
 ---
 layout: post
 title: "Android Battery Drain Solution"
