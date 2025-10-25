@@ -9,7 +9,7 @@ title: Home
 
 # 🛠️ Welcome to Alifix
 
-I share step-by-step **guides to fix computer and mobile phone errors**.  
+I share step-by-step **Guides to fix computer errors**.  
 Each article is published on a separate link.
 
 ## 🔗 Categories
