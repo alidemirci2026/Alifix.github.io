@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "iphone Update Error Solution"
-categories: [windows]
+categories: [phone]
 tags: [update, error, 0x80072EFE]
 ---
 
