@@ -1,14 +1,20 @@
-
 ---
 layout: post
-title: "Android Battery Drain Solution"
-categories: [phone]
+title: "iphone Update Error Solution"
+categories: [windows]
 tags: [update, error, 0x80072EFE]
 ---
 
-If your Android device battery drains quickly, follow these steps:
+This error usually occurs due to **DNS** or **network configuration** problems.  
+Follow the steps below to solve it:
 
-1. Set screen brightness to *Automatic*.  
-2. Close unnecessary background apps.  
-3. Enable *Battery Saver* mode.
-![Black Swan Image](/assets/img/IMG_6053.JPG)
+1. Reset network settings: *Settings > Network & Internet > Advanced network settings > Network reset*  
+2. Change DNS: set IPv4 to `1.1.1.1` and `8.8.8.8`  
+3. Run Command Prompt (Admin) and type:
+ipconfig /flushdns
+netsh winsock reset
+netsh int ip reset
+4. Restart your computer.
+
+**Download:** [Wi-Fi Fix Tool (ZIP)](/files/fix_wifi.zip)
+
